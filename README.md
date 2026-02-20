@@ -203,7 +203,7 @@ Helps:
 
 ---
 
-# 🚗 Example: AI-Based EV Battery System
+#  Example: AI-Based EV Battery System
 
 ```mermaid
 flowchart LR
