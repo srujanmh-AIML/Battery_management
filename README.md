@@ -20,7 +20,7 @@ The BMS ensures safety, efficiency, and long battery life.
 
 ## 🔹 BMS Block Diagram
 
-![BMS Block Diagram](https://www.allaboutcircuits.com/uploads/articles/Sanino_BMS_BMS_block_diagram.png)
+![BMS Block Diagram](https://upload.wikimedia.org/wikipedia/commons/5/59/Battery_management_system_block_diagram.png)
 
 ### Main Components:
 - Cell Voltage Sensors
@@ -56,11 +56,11 @@ The BMS ensures safety, efficiency, and long battery life.
 
 # 🌡 3️⃣ Battery Thermal Management System (BTMS)
 
-## 🔹 Cooling Methods Used in Modern EVs
+## 🔹 Thermal Management Diagram
 
-![Thermal Management Methods](https://www.researchgate.net/publication/339106112/figure/fig1/AS%3A1142674962812928%401649446349766/Battery-thermal-management-methods-diagram-a-convective-air-cooling-b-liquid.ppm)
+![Battery Thermal Management](https://upload.wikimedia.org/wikipedia/commons/0/0b/Battery_thermal_management_system.png)
 
-### Types:
+### Cooling Methods:
 - Air Cooling
 - Liquid Cooling
 - Phase Change Materials
@@ -73,9 +73,9 @@ Thermal management improves:
 
 ---
 
-# ⚡ 4️⃣ Cell Balancing Diagram
+# ⚡ 4️⃣ Cell Balancing Concept
 
-![Cell Balancing Concept](https://batteryuniversity.com/_img/content/balancing.png)
+![Cell Balancing Diagram](https://upload.wikimedia.org/wikipedia/commons/3/3f/Lithium-ion_battery_balancing.png)
 
 ### Types of Balancing:
 
@@ -90,104 +90,103 @@ Thermal management improves:
 
 ---
 
-# 📊 5️⃣ Latest Trends in Battery Management Systems (2024–2026)
+# 📡 5️⃣ Wireless BMS Architecture (Latest Trend)
 
-## 🔥 Trend 1: Smart BMS
-- Embedded microcontrollers with advanced firmware
-- Real-time data analytics
+![Wireless BMS](https://upload.wikimedia.org/wikipedia/commons/6/6f/Wireless_battery_management_system.png)
 
-## 🔥 Trend 2: Wireless BMS (wBMS)
-- Eliminates wiring harness
-- Used in modern EV platforms
-- Reduces weight and complexity
-
-## 🔥 Trend 3: Cloud-Connected BMS
-- Remote monitoring
-- OTA firmware updates
-- Fleet battery health analysis
-
-## 🔥 Trend 4: Digital Twin Technology
-- Virtual model of battery pack
-- Predict degradation in advance
-
-## 🔥 Trend 5: AI-Integrated BMS
-- Machine learning for prediction
-- Advanced fault detection
+Wireless BMS:
+- Removes complex wiring
+- Reduces vehicle weight
+- Improves scalability
+- Used in next-generation EVs
 
 ---
 
-# 🤖 6️⃣ How AI / ML is Making a Difference
+# 🤖 6️⃣ AI-Integrated BMS Architecture
 
-## 🔹 Traditional BMS Problems
-- Inaccurate SoC estimation
-- Poor degradation prediction
-- Late fault detection
+![AI BMS Flow](https://upload.wikimedia.org/wikipedia/commons/8/8e/Machine_learning_workflow_diagram.png)
 
-AI improves these areas significantly.
+AI-Based Flow:
+
+1. Sensors collect battery data
+2. Data preprocessing
+3. ML model predicts SoC & SoH
+4. Fault detection algorithm
+5. Cloud dashboard analytics
 
 ---
 
-## 🧠 AI in SoC Estimation
+# 📊 Latest Trends in BMS (2024–2026)
 
-![AI SoC Flow](https://www.researchgate.net/publication/352356372/figure/fig1/AS%3A1035310968033280%401626948292874/Architecture-of-LSTM-based-state-of-charge-estimation-model.ppm)
+🔥 Smart Embedded BMS  
+🔥 Wireless BMS (wBMS)  
+🔥 Cloud-connected battery analytics  
+🔥 Digital Twin battery modeling  
+🔥 AI-based SoC & SoH estimation  
+🔥 Predictive maintenance systems  
 
-Instead of only using mathematical equations, ML models learn from:
+---
 
+# 🧠 How AI/ML is Making a Difference
+
+## AI in SoC Estimation
+Traditional methods use mathematical equations.
+AI models learn from:
 - Voltage patterns
-- Current patterns
-- Temperature behavior
-- Past battery cycles
+- Current profiles
+- Temperature changes
+- Charge-discharge history
 
 Models Used:
 - Neural Networks
 - Random Forest
 - XGBoost
-- LSTM (for time-series)
+- LSTM
 
 Result:
-- More accurate battery percentage
-- Better range prediction in EVs
+✔ Higher accuracy  
+✔ Better EV range prediction  
 
 ---
 
-## 🔍 AI for Fault Detection
+## AI in Fault Detection
 
 AI can detect:
 - Internal short circuit
-- Abnormal heating
-- Sudden voltage drop
-- Early signs of thermal runaway
+- Thermal runaway risk
+- Voltage abnormalities
+- Early degradation signs
 
 Using:
-- Anomaly detection
+- Anomaly Detection
 - Autoencoders
-- Predictive analytics
+- Predictive modeling
 
 ---
 
-## 📈 AI for Battery Health Prediction (SoH)
+## AI in Battery Health (SoH) Prediction
 
 AI predicts:
 - Remaining Useful Life (RUL)
+- Capacity fade trend
 - Degradation rate
-- Capacity loss trend
 
 This helps:
 - EV manufacturers
 - Fleet operators
-- Renewable storage systems
+- Renewable energy storage systems
 
 ---
 
 # 🚗 Example: AI-Based EV Battery System
 
-## Process Flow:
+Process Flow:
 
-1. Sensors collect battery data
-2. Data sent to microcontroller
-3. AI model predicts SoC & SoH
-4. Cloud stores data
-5. Dashboard shows battery analytics
+1. Sensors →  
+2. Microcontroller →  
+3. AI Model →  
+4. Cloud Storage →  
+5. Analytics Dashboard  
 
 ---
 
@@ -195,10 +194,10 @@ This helps:
 
 | Traditional BMS | AI-Integrated BMS |
 |-----------------|------------------|
-| Rule-based logic | Data-driven intelligence |
-| Limited prediction | Predictive maintenance |
-| Reactive protection | Proactive safety |
-| Fixed thresholds | Adaptive decision making |
+| Fixed thresholds | Adaptive intelligence |
+| Reactive protection | Predictive safety |
+| Limited estimation | Accurate prediction |
+| No long-term learning | Self-learning models |
 
 ---
 
@@ -207,23 +206,23 @@ This helps:
 - Self-learning batteries
 - AI-based fast charging optimization
 - Federated learning for EV fleets
-- Autonomous energy management systems
 - Smart grid integration
+- Digital twin battery systems
 
 ---
 
 # 🎓 Conclusion
 
-Battery Management Systems are evolving from simple monitoring systems to intelligent, AI-driven platforms.
+Battery Management Systems are evolving from simple monitoring devices into intelligent, AI-driven platforms.
 
-AI/ML is transforming BMS by enabling:
+AI/ML enhances:
 
-- Accurate state estimation
-- Predictive fault detection
-- Longer battery life
-- Smart energy optimization
+- Accuracy
+- Safety
+- Battery lifespan
+- Energy efficiency
 
-This makes BMS one of the most important research areas in:
+BMS with AI is one of the fastest-growing research areas in:
 
 - Electric Vehicles
 - Renewable Energy
