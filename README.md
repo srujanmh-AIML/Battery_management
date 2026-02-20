@@ -1,22 +1,22 @@
-# 🔋 Battery Management System (BMS)
+#  Battery Management System (BMS)
 ## Latest Trends & Role of AI/ML in Modern Energy Systems
 
 ---
 
-# 📌 Overview
+#  Overview
 
 A Battery Management System (BMS) is an electronic system that monitors, protects, and manages rechargeable battery packs, especially Lithium-ion batteries used in:
 
-- 🚗 Electric Vehicles (EVs)
-- ☀ Renewable Energy Storage
-- 📱 Consumer Electronics
-- 🏭 Industrial Backup Systems
+-  Electric Vehicles (EVs)
+-  Renewable Energy Storage
+-  Consumer Electronics
+-  Industrial Backup Systems
 
 The BMS ensures safety, performance, efficiency, and longer battery lifespan.
 
 ---
 
-# 🏗 1️⃣ Basic Structure of a BMS
+#  1️⃣ Basic Structure of a BMS
 
 ## 🔹 BMS Block Diagram
 
@@ -44,28 +44,28 @@ flowchart LR
 
 ---
 
-# ⚙ 2️⃣ Core Functions of BMS
+#  2️⃣ Core Functions of BMS
 
-### ✅ Monitoring
+###  Monitoring
 - Cell voltage
 - Pack current
 - Temperature
 
-### ✅ Protection
+###  Protection
 - Overcharge protection
 - Over-discharge protection
 - Overcurrent protection
 - Short circuit protection
 - Thermal protection
 
-### ✅ Optimization
+###  Optimization
 - Cell balancing
 - Battery life improvement
 - Efficiency enhancement
 
 ---
 
-# 🌡 3️⃣ Battery Thermal Management System (BTMS)
+#  3️⃣ Battery Thermal Management System (BTMS)
 
 ## 🔹 Thermal Management Diagram
 
@@ -83,7 +83,7 @@ Thermal management prevents overheating and improves battery lifespan and safety
 
 ---
 
-# ⚡ 4️⃣ Cell Balancing System
+#  4️⃣ Cell Balancing System
 
 ## 🔹 Cell Balancing Concept
 
@@ -102,7 +102,7 @@ flowchart LR
 
 ---
 
-# 📡 5️⃣ Wireless BMS Architecture (Latest Trend)
+#  5️⃣ Wireless BMS Architecture (Latest Trend)
 
 ```mermaid
 flowchart LR
@@ -121,7 +121,7 @@ Wireless BMS:
 
 ---
 
-# 🤖 6️⃣ AI-Integrated Smart BMS Architecture
+#  6️⃣ AI-Integrated Smart BMS Architecture
 
 ```mermaid
 flowchart LR
@@ -137,18 +137,18 @@ flowchart LR
 
 ---
 
-# 📊 Latest Trends in BMS (2024–2026)
+#  Latest Trends in BMS (2024–2026)
 
-🔥 Smart Embedded BMS  
-🔥 Wireless BMS (wBMS)  
-🔥 Cloud-connected Battery Monitoring  
-🔥 Digital Twin Battery Modeling  
-🔥 AI-Based SoC & SoH Estimation  
-🔥 Predictive Maintenance  
+* Smart Embedded BMS  
+* Wireless BMS (wBMS)  
+* Cloud-connected Battery Monitoring  
+* Digital Twin Battery Modeling  
+* AI-Based SoC & SoH Estimation  
+* Predictive Maintenance  
 
 ---
 
-# 🧠 How AI / ML is Making a Difference
+#  How AI / ML is Making a Difference
 
 ## AI in State of Charge (SoC)
 
@@ -174,7 +174,7 @@ Result:
 
 ---
 
-## 🔍 AI for Fault Detection
+##  AI for Fault Detection
 
 AI detects:
 - Internal short circuits
@@ -189,7 +189,7 @@ Using:
 
 ---
 
-## 📈 AI for Battery Health (SoH)
+##  AI for Battery Health (SoH)
 
 AI predicts:
 - Remaining Useful Life (RUL)
@@ -215,7 +215,7 @@ flowchart LR
 
 ---
 
-# 📌 Traditional vs AI-Based BMS
+#  Traditional vs AI-Based BMS
 
 | Traditional BMS | AI-Integrated BMS |
 |-----------------|------------------|
@@ -226,7 +226,7 @@ flowchart LR
 
 ---
 
-# 🌍 Future Scope
+#  Future Scope
 
 - Self-learning battery systems  
 - AI-based fast charging optimization  
@@ -236,7 +236,7 @@ flowchart LR
 
 ---
 
-# 🎓 Conclusion
+#  Conclusion
 
 Battery Management Systems are evolving from simple monitoring devices into intelligent AI-driven platforms.
 
@@ -255,6 +255,7 @@ AI-based BMS is one of the fastest-growing research areas in:
 
 ---
 
-# 👩‍💻 Prepared By
+#  Prepared By
+Srujan M H
 AIML Student  
-Interest Area: Smart Energy Systems & Intelligent EV Technologies
+
